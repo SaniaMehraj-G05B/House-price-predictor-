@@ -13,7 +13,7 @@ house_price_app/
 ├── app.py                        ← Flask backend (routes + ML prediction)
 ├── requirements.txt              ← Python dependencies
 ├── Procfile                      ← Render.com start command
-├── .gitignore
+├── gitignore
 ├── House_Price_India_in_.csv     ← Dataset (14,619 records, 10 features)
 │
 |
