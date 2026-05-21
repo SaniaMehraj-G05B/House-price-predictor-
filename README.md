@@ -16,10 +16,10 @@ house_price_app/
 ├── .gitignore
 ├── House_Price_India_in_.csv     ← Dataset (14,619 records, 10 features)
 │
-├── templates/
+|
 │   └── index.html                ← Main HTML page (Jinja2 template)
 │
-└── static/
+└── 
     ├── style.css                 ← Responsive dark-theme UI styles
     └── script.js                 ← Fetch-based prediction + Chart.js
 ```
